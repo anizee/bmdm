@@ -24,12 +24,12 @@
 
 4. Enter Recovery Mode & Open Safari.
 
-5. Navigate to https://www.github.com/anizee/bypass-mdm
+5. Navigate to https://www.github.com/anizee/bmdm
 
 6. Copy the script below:
 
 ```zsh
-curl https://raw.githubusercontent.com/anizee/bypass-mdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
+curl https://raw.githubusercontent.com/anizee/bmdm/main/bypass-mdm.sh -o bypass-mdm.sh && chmod +x ./bypass-mdm.sh && ./bypass-mdm.sh
 ```
 
 7. Launch Terminal (Utilities > Terminal).
